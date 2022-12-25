@@ -6,7 +6,7 @@ If you are preparing for the interview you can check this repository.
 
 ## Questions.
 
-1. What are some of the advantages of HTML5 over its previous versions?
+1. [What are some of the advantages of HTML5 over its previous versions?](/HTML-Interview-Questions/answers/html5-vs-html.md)
 2. What is semantic elements?
 3. How can we include audio or video in a webpage?
 4. Inline and block elements in HTML5?
