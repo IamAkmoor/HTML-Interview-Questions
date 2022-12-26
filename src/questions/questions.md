@@ -1,7 +1,7 @@
 ## Questions.
 
 1. [What are some of the advantages of HTML5 over its previous versions?](/src/answers/html5-vs-html.md)
-2. What is semantic elements?
+2. [What is semantic elements?](/src/answers/semantic-elements.md)
 3. How can we include audio or video in a webpage?
 4. Inline and block elements in HTML5?
 5. What does a doctype do?
