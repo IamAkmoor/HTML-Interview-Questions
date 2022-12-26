@@ -2,7 +2,7 @@
 
 1. [What are some of the advantages of HTML5 over its previous versions?](/src/answers/html5-vs-html.md)
 2. [What is semantic elements?](/src/answers/semantic-elements.md)
-3. How can we include audio or video in a webpage?
+3. [How can we include audio or video in a webpage?](/src/answers/audio-and-video.md)
 4. Inline and block elements in HTML5?
 5. What does a doctype do?
 6. How do you serve a page with content in multiple languages?
