@@ -1,6 +1,6 @@
-#### How can we include audio or video in a webpage?
+## How can we include audio or video in a webpage?
 
-##### Audio 
+#### Audio 
 
 The &lt;audio&gt; tag is used to embed sound content in a document, such as music or other audio streams.
 
@@ -10,13 +10,13 @@ The text between the  &lt;audio&gt; and &lt;/audio&gt; tags will only be display
 
 There are three supported audio formats in HTML: MP3, WAV, and OGG.
 
-&lt;audio controls&gt;
+&lt;audio controls&gt;  
   &lt;source src=&quot;horse.ogg&quot; type=&quot;audio/ogg&quot;&gt;
   &lt;source src=&quot;horse.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio tag.
 &lt;/audio&gt;
 
-##### Video 
+#### Video 
 
 The &lt;video&gt; tag is used to embed video content in a document, such as a movie clip or other video streams.
 

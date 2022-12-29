@@ -1,6 +1,6 @@
-#### What is semantic elements?
+## What is semantic elements?
 
-Semantic element - elements with the meaning. 
+**Semantic element**- elements with the meaning. 
 A semantic element clearly describes its meaning to both the browser and the developer.
 
 Examples of non-semantic elements: &lt;div&gt; and &lt;span&gt; - Tells nothing about its content.
