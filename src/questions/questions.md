@@ -5,7 +5,7 @@
 3. [How can we include audio or video in a webpage?](/src/answers/audio-and-video.md)
 4. [Inline and block elements in HTML5?](/src/answers/inline-and-block-elements.md)
 5. [What does a doctype do?](/src/answers/doctype.md)
-6. How do you serve a page with content in multiple languages?
+6. [How do you serve a page with content in multiple languages?](/src/answers/multiple-languages.md)
 7. How to specify the metadata in HTML5?
 8. Describe the difference between a cookie, sessionStorage and localStorage.
 9. What is the difference between canvas and svg?
