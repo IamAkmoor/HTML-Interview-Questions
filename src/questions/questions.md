@@ -9,10 +9,10 @@
 7. [How to specify the metadata in HTML5?](/src/answers/metadata.md)
 8. [Describe the difference between a cookie, sessionStorage and localStorage.](/src/answers/cookies-localstorage-seesionstorage.md)
 9. [What is the difference between canvas and svg?](/src/answers/canvas-svg.md)
-10. Are the HTML tags and elements the same thing?
-11. Describe the difference between <script>, <script async> and <script defer>.
-12. What is progressive rendering?
-13. Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.
+10. [Are the HTML tags and elements the same thing?](/src/answers/tags-vs-elements.md)
+11. [Describe the difference between <script>, <script async> and <script defer>.](/src/answers/script_script-async_script-defer.md)
+12. [What is progressive rendering?](/src/answers/progressive-rendering.md)
+13. [Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.](/src/answers/srcset.md)
 14. Describe HTML Form validation.
 15. Describe DOM.
 16. What is WebSocket?
