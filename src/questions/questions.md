@@ -8,7 +8,7 @@
 6. [How do you serve a page with content in multiple languages?](/src/answers/multiple-languages.md)
 7. [How to specify the metadata in HTML5?](/src/answers/metadata.md)
 8. [Describe the difference between a cookie, sessionStorage and localStorage.](/src/answers/cookies-localstorage-seesionstorage.md)
-9. What is the difference between canvas and svg?
+9. [What is the difference between canvas and svg?](/src/answers/canvas-svg.md)
 10. Are the HTML tags and elements the same thing?
 11. Describe the difference between <script>, <script async> and <script defer>.
 12. What is progressive rendering?

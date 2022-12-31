@@ -9,4 +9,5 @@ The HTML5's web storage feature lets you store some information locally on the u
 There are two types of web storage, which differ in scope and lifetime:
 
 __Local storage__ — The local storage uses the localStorage object to store data for your entire website, permanently. That means the stored local data will be available on the next day, the next week, or the next year unless you remove it.
+
 __Session storage__ — The session storage uses the sessionStorage object to store data on a temporary basis, for a single window (or tab). The data disappears when session ends i.e. when the user closes that window (or tab).
