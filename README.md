@@ -26,27 +26,27 @@ If you are preparing for the interview you can check this repository.
 18. [What is Webworkers?](/src/answers/webworkers.md)
 19. [What are data- attributes good for?](/src/answers/data-attribute.md)
 20. [Describe get/post in form submission.](/src/answers/method-get-and-post.md)
-21. What are tags and attributes in HTML?
-22. What are void elements in HTML?
-23. What is the advantage of collapsing white space?
-24. What are HTML Entities?
-25. What are different types of lists in HTML?
-26. What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
-27. Describe HTML layout structure.
-28. How to optimize website assets loading?
-29. What are the various formatting tags in HTML?
-30. Please explain how to indicate the character set being used by a document in HTML?
-31. Can we display a web page inside a web page or Is nesting of webpages possible?
-32. What is Cell Padding and Cell Spacing?
-33. How can we club two or more rows or columns into a single row or column in an HTML table?
-34. In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?
-35. In how many ways you can display HTML elements?
-36. What is the difference between “display: none” and “visibility: hidden”?
-37. How to specify the link in HTML and explain the target attribute?
-38. In how many ways can we specify the CSS styles for the HTML element?
-39. Difference between link tag and anchor tag ?
-40. How to include javascript code in HTML?
-41. When to use scripts in the head and when to use scripts in the body?
-42. What are forms and how to create forms in HTML?
-43. How to handle events in HTML?
+21. [What are tags and attributes in HTML?](/src/answers/tags-and-attributes.md)
+22. [What are void elements in HTML?](/src/answers/void-elements.md)
+23. [What is the advantage of collapsing white space?](/src/answers/collapsing-whitespace.md)
+24. [What are HTML Entities?](/src/answers/html-entities.md)
+25. What are different types of lists in HTML?(/src/answers/)
+26. What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?(/src/answers/)
+27. Describe HTML layout structure.(/src/answers/)
+28. How to optimize website assets loading?(/src/answers/)
+29. What are the various formatting tags in HTML?(/src/answers/)
+30. Please explain how to indicate the character set being used by a document in HTML?(/src/answers/)
+31. Can we display a web page inside a web page or Is nesting of webpages possible?(/src/answers/)
+32. What is Cell Padding and Cell Spacing?(/src/answers/)
+33. How can we club two or more rows or columns into a single row or column in an HTML table?(/src/answers/)
+34. In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?(/src/answers/)
+35. In how many ways you can display HTML elements?(/src/answ(/src/answers/)ers/)
+36. What is the difference between “display: none” and “visibility: hidden”?(/src/answers/)
+37. How to specify the link in HTML and explain the target attribute?(/src/answers/)
+38. In how many ways can we specify the CSS styles for the HTML element?(/src/answers/)
+39. Difference between link tag and anchor tag ?(/src/answers/)
+40. How to include javascript code in HTML?(/src/answers/)
+41. When to use scripts in the head and when to use scripts in the body?(/src/answers/)
+42. What are forms and how to create forms in HTML?(/src/answers/)
+43. How to handle events in HTML?(/src/answers/)
 
