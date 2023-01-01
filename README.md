@@ -19,13 +19,13 @@ If you are preparing for the interview you can check this repository.
 11. [Describe the difference between <script>, <script async> and <script defer>.](/src/answers/script_script-async_script-defer.md)
 12. [What is progressive rendering?](/src/answers/progressive-rendering.md)
 13. [Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.](/src/answers/srcset.md)
-14. Describe HTML Form validation.(/src/answers/)
-15. Describe DOM.(/src/answers/)
-16. What is WebSocket?(/src/answers/)
-17. What is SSE(server-sent-events)?(/src/answers/)
-18. What is Webworkers?(/src/answers/)
-19. What are data- attributes good for?
-20. Describe get/post in form submission.
+14. [Describe HTML Form validation.](/src/answers/html-form-validation.md)
+15. [Describe DOM.](/src/answers/dom.md)
+16. [What is WebSocket?](/src/answers/websocket.md)
+17. [What is SSE(server-sent-events)?](/src/answers/sse.md)
+18. [What is Webworkers?](/src/answers/webworkers.md)
+19. [What are data- attributes good for?](/src/answers/data-attribute.md)
+20. [Describe get/post in form submission.](/src/answers/method-get-and-post.md)
 21. What are tags and attributes in HTML?
 22. What are void elements in HTML?
 23. What is the advantage of collapsing white space?
